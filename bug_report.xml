@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<bug>
     <ID="1">
     <Title>Bug for fun</Title>
     <Steps>Delete windows 10 from your computer</Steps>
     <EXP>Delete windows</EXP>
     <FACT>Error output</FACT>
+</bug>        
