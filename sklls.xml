@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<sklls>
+	<skill id="1">
+	<name>JSON</name>
+	<skill id="2">
+	<name>GIT</name>
+	<skill id="3">
+	<name>Postman</name>
+</sklls>
+
+
